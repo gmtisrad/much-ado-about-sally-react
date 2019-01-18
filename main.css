@@ -1,0 +1,17 @@
+html {
+    background-color: red;
+}
+
+#application-root{
+    min-width: 60vw;
+    max-width: 60vw;
+    margin: 0 auto;
+    background-color: lightcyan;
+    color: red;
+    padding: 20px;
+    border: 1px solid cyan;
+}
+
+header {
+    text-align: center;
+}
